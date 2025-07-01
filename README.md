@@ -1,4 +1,4 @@
-# Yamini-Gongati<h1 align="left">Hi, I'm Yamini</h1>
+# <h1 align="left">Hi, I'm Yamini</h1>
 
 ###
 
